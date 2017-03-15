@@ -13,11 +13,11 @@
 
 ## 磁罗盘
 
-将引导您将无人机定位在多个设置方向，并将无人机旋转通过请求。 为了校准，将无人机置于不完全定向之一并保持静止，当被要求旋转时，车辆围绕特定轴旋转。
+将引导您将无人机定位在多个设置方向，并将无人机旋转通过请求。 为了校准，将无人机置于图中方向之一并保持静止，当被要求旋转时，无人机围绕特定轴旋转。
 
 ![](CompassImageCal.jpg)
 
-## Level Horizon
+## 水平校准
 If after completing Accelerometer calibration you see that the horizon as shown in the HUD is not level you can calibrate the level horizon for your vehicle. You will be asked to place the vehicle in a level orientation while it captures the information.
 
 ## CompassMot (ArduPilot only)
