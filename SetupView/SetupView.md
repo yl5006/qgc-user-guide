@@ -25,7 +25,7 @@
 **[飞行模式](FlightModes.md)**
 <br>用于将飞行模式分配给遥控器开关。
 
-**[Power](Power.md)**
+**[电源](Power.md)**
 <br>Battery settings and additional power options such as ESC calibration.
 
 **[Safety](Safety.md)**
