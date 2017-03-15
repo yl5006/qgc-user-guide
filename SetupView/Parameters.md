@@ -1,4 +1,4 @@
-# Parameters
+# 机体参数设置
 
 ![](PX4Parameters.jpg)
 *Note: This image is from a vehicle running PX4 Pro firmware. ArduPilot works similary, just the parameter set will differ.*
