@@ -28,7 +28,7 @@
 **[电源](Power.md)**
 <br>电池设置和附加电源选项，如ESC校准。
 
-**[Safety](Safety.md)**
+**[安全设置](Safety.md)**
 <br>Specify settings for options related to Safety such as Return to Home or Failsafes.
 
 **[Tuning](Tuning.md)**
