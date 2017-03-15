@@ -1,5 +1,3 @@
-# Safety Setup
+# 参数详解
 
-![](PX4Safety.jpg)
-
-The Safety Setup page allows you to configure various failsafe settings as well as return home details.
+制作中稍后
