@@ -1,4 +1,4 @@
-# Sensors
+# 传感器
 Sensor setup allows you to configure and calibrate the sensors on your vehicle.
 
 ![](Sensors.jpg)
