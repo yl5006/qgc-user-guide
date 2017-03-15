@@ -46,11 +46,11 @@
 ### 任务命令编辑
 单击任务命令以显示其编辑器，它允许您指定命令的值。 您也可以通过单击命令名称“航点”(带下划线)更改命令的类型。 这允许您从设置可用命令中选择来构建您的任务。 命令名称的下方是你可以编辑改命名的参数，命令的右方是 插入和 删除 航点命令。
 
-### Planned Home Position
-A mission always has a "Planned Home Position" associated with it. This is used to simulate the home position of the vehicle such that waypoint lines can be drawn correctly to the first actual waypoint. Keep in mind that the actual home position for a mission is set by the vehicle and may differ from the "planned" home position if you don't begin your mission with the vehicle in the same location as "planned".
+### 家位置
+任务总是有一个“计划的起始位置”与之相关联。 这用于模拟无人机的原始位置，使得航点线可以被正确地绘制到第一实际航点。 记住，任务的实际原始位置由无人机设置，并且如果您不在与“计划”相同的位置开始使用(解锁)无人机，则可能与“计划”原位置不同。
 
-## Mission Display
-In the center of the map you will see a visualization of your current mission. You can click on the inicators to select then and then you can also drag them around to move them.
+## 任务显示
+在地图的中心，您将看到您当前任务的可视化图形。 您可以单击要选择的图形，然后您也可以拖动它们来移动它们。
 
-## Mission Height Display
-At the bottom of the map you will see a representation of the height differences between your mission commands. To the left of that is information for the currently selected command relative to the previous command. For example: Distance from previous waypoint.
+## 任务高度和距上一个航点间距离显示
+在地图的底部，您将看到一个表示任务命令之间的高度差的表示。 单击可以切换航点显示
