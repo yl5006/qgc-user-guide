@@ -1,20 +1,14 @@
-# QGroundControl
+# 地面站使用手册
+1.1公司介绍
+      易瓦特科技股份公司成立于2010年，是世界领先的民用无人机系统制造商，自主研发了全系列无人机产品，业务涵盖产业链各环节，包括无人系统研发、生产、销售、培训、技术与飞行服务等，综合实力位居行业前列。现拥有中国第一家无人机驾驶员培训学院，以及在建的全球最大民用无人机研发生产基地。公司固定翼无人机、多旋翼无人机和大载荷无人直升机等产品已广泛用于新闻影视、物流配送、农林植保、婚庆旅游、警用消防、国土测绘、能源巡检、电力巡线等10多个领域，并不断融入新的行业应用。
+      以市场为导向，以智能创造为根本理念，易瓦特组建了一只极富开拓精神的国际化团队，吸引了一批来自北美、欧洲及本土的顶尖人才。并在美国、香港分别设立分公司，以迅猛而稳健的步伐构建民用无人机国际化架构体系。
+    “智创无限可能”，易瓦特以开创航空领域技术革命为远大目标，以科技创新为生产力，以为客户提供一流产品与全方位优质服务为己任，向着更远大的目标扬帆起航，共创共赢美好未来。
 
+1.2软件介绍
+本软件是主要是运用易瓦特科技股份公司的多旋翼无人机系列,它有着丰富的使用功能,如：一键起飞，一键降落,一键返航,定时,定点,定距拍照,远程操控云台,指引飞行,自动驾驶等等功能。同时它也有着较强的人机交互功能,我们根据有人机的设计理念,将许多的参数设计成仪器仪表的风格,让用户在作业时很直观的实时了解无人机的状态.同时我们也针对无人机做了许多的安全保护措施,它不仅有遥控器失控保护,数据链失控保护,电压失控保护,返航高度设置等,它更有一套专门针对返航的航点返航模式,你只需要在起飞作业之前设置好返航的航线,当你遇到危险时,你只需要切入航线返航模式,无人机就可以按照设定的航点返航,当然,如果你觉得麻烦,你就可以选择直线返航。我相信只要用过我们地面站的用户出去作业都会觉得很顺手，可以很方便的协助完成作业任务
 ![](QuickStart/ConnectedVehicle.jpg)
 
-QGroundControl provides full flight control and vehicle setup for ArduPilot or PX4 powered vehicles. The goal for QGroundControl is improved ease of use for new users as well as high end feature support for experienced users. 
+ 本手册是易瓦特科技股份公司无人机的地面站系统使用手册,以及使用进行说明。
 
-QGroundControl features:
 
-* Full vehicle setup support for ArduPilot and PX4 Pro powered vehicles
-* Mission planning for autonomous flight
-* Flight map display showing vehicle position, flight track, waypoints and vehicle instruments
-* Video streaming with instrument display overlays
-* Support for managing multiple vehicles
-* Flight support for any vehicle which communicates using the MAVLink protocol
-
-QGroundControl runs on Windows, OS X and Linux platforms as well as iOS and Android devices.
-
-Developer related internal details of QGroundControl can be found in the [developers guide](https://donlakeflyer.gitbooks.io/qgroundcontrol-developers-guide/content/).
-
-**Note: The QGroundControl user guide is an active work in progress. The information provided should be correct, but you may find missing information or incomplete pages.**
+易瓦特科技股份公司 copyright2016-2017 
