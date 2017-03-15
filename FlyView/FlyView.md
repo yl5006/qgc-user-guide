@@ -18,7 +18,7 @@
 此工具允许您更改街道，卫星和混合（街道+卫星）之间的当前地图类型。 默认地图提供程序是Bing，因为它似乎提供更好的混合地图。 您可以从“设置”的“系统设置”页面更改地图提供商。
 
 ## 视频显示
-At the lower left of the display you will see video output. QGroundControl supports RTP and RTSP video streaming over your vehicles UDP connection. It also support directly connected UVC device support. More details on QGC Video support can be found on the [Video README](https://github.com/mavlink/qgroundcontrol/blob/master/src/VideoStreaming/README.md).
+在显示屏的左下角，您将看到视频输出。 地面站系统支持RTP和RTSP视频流通过您的车辆UDP连接。 它还支持直接连接的UVC设备支持。 
 
 By clicking on the video you can make it be the main display for the Fly view.
 
