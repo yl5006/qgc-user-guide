@@ -36,5 +36,5 @@
 ![](BatteryToolbar.jpg) **电池状态**
 <br>Remaining battery percent.
 
-![](FlightModeToolbar.jpg) **Flight Mode**
+![](FlightModeToolbar.jpg) **飞行模式**
 <br>Current flight mode. Click to change flight mode.
