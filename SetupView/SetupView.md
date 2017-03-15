@@ -26,7 +26,7 @@
 <br>用于将飞行模式分配给遥控器开关。
 
 **[电源](Power.md)**
-<br>Battery settings and additional power options such as ESC calibration.
+<br>电池设置和附加电源选项，如ESC校准。
 
 **[Safety](Safety.md)**
 <br>Specify settings for options related to Safety such as Return to Home or Failsafes.
