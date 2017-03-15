@@ -2,9 +2,9 @@
 传感器设置允许您配置和校准无人机上的传感器。
 
 ![](Sensors.jpg)
-*Note: The image shown is from a vehicle running ArduPilot firmware. PX4 Firmware options will be slightly different.*
+* 注：显示的图像来自运行固定翼固件的无人机。 PX4固件选项将略有不同。*
 
-To start the individual calibration steps click on a sensor's button. Sensors marked with red require calibration prior to flight. Sensors marked with green indicate a good calibration.
+要启动单个校准步骤，请单击传感器的按钮。 标有红色的传感器需要在飞行前校准。 标有绿色的传感器表示良好的校准。
 
 ## Accelerometer
 To calibrate the accelerometers on your vehicle you will be asked to place you vehicle in an orientation and hold it there until asked to move to the next step.
