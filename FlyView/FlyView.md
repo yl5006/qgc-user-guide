@@ -25,7 +25,7 @@
 右下角是一个仪表板，显示您无人机的最新信息。 显示姿态角度，航向角
 ![](../FlyView/instrument.jpg)
 
-### 数据显示
+### 飞行数据显示
 
 <img src="InstrumentTelemetryPage.jpg" style="width: 100px;"/>
 
