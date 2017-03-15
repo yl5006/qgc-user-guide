@@ -8,7 +8,7 @@
 <br>Configure the QGroundControl application.
 
 ![](SetupViewButton.jpg) **[Setup](../SetupView/SetupView.md)**
-<br设置和配置你的无人机
+<br>设置和配置你的无人机
 
 ![](PlanViewButton.jpg) **[Plan](../PlanView/PlanView.md)**
 <br>航点规划页面，自动规划航点
