@@ -23,7 +23,7 @@
 <br>校准无人机传感器
 
 **[飞行模式](FlightModes.md)**
-<br>Used to assign flight modes to your RC Transmitter switches.
+<br>用于将飞行模式分配给遥控器开关。
 
 **[Power](Power.md)**
 <br>Battery settings and additional power options such as ESC calibration.
