@@ -2,9 +2,9 @@
 
 ![](SettingsView.jpg)
 
-The Settings View allows you to configure the settings which are associated with the QGroundControl application. Since these settings are for QGroundControl and not your specific vehicle you do not have to have a vehicle connected to change these settings.
+系统设置视图允许您配置与QGroundControl应用程序相关的设置。 由于这些设置是为QGroundControl而不是你的特定车辆，你不必有车辆连接更改这些设置。
 
-You can switch between the various settings options by clicking the buttons on the left.
+您可以通过单击左侧的按钮在各种设置选项之间切换。
 
 ### Settings Options
 
