@@ -19,8 +19,8 @@
 **[遥控设置](Radio.md)**
 <br>校准遥控器。
 
-**[Sensors](Sensors.md)**
-<br>Calibrate the sensors on the vehicle.
+**[传感器设置](Sensors.md)**
+<br>校准无人机传感器
 
 **[Flight Modes](FlightModes.md)**
 <br>Used to assign flight modes to your RC Transmitter switches.
