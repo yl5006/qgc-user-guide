@@ -1,4 +1,4 @@
-# Flight Modes Setup
+# 飞行模式设置
 
 This page allows you to configure the flight mode switch on your rc transmitter. Flight modes allow for different levels of flight stablization as well as features such as Return to Launch (RTL).
 
