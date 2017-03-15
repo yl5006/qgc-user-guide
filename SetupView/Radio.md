@@ -1,5 +1,4 @@
-# Radio Setup
-
+# 遥控器设置
 ![](/SetupView/radio.jpg)  
 附加遥控设置根据在固件之间不同。
 
