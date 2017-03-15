@@ -13,16 +13,7 @@
 
 ## 磁罗盘
 
-### ArduPilot (newer firmwares)
-For newer ArduPilot firmwares compass calibration will be done using the Onboard calibration support which provides for more accurate calibration. You need to rotate the vehicle randomly around all axes until the progress bar fills all the way to the right and the calibration completes. When the calibration completes you will get the following results:
-
-![](ArudPilolCompassCalOnboardResult.jpg)
-
-This shows you the quality of the calibration for each compass. Using these values you can determine whether you may want to turn off usage of poorly performing compasses.
-
-### ArduPilot (older firmwares) and PX4
-
-For PX4 and older ArduPilot you will be guided through positioning the vehicle in a number of set orientations and rotating the vehicle through the request axis. To calibrate place the Vehicle in one of the incomplete orientations and hold it still, when asked to Rotate rotate the vehicle around the specific axis.
+将引导您将车辆定位在多个设置方向，并将无人机旋转通过请求轴。 为了校准，将车辆置于不完全定向之一并保持静止，当被要求旋转时，车辆围绕特定轴旋转。
 
 ![](CompassImageCal.jpg)
 
