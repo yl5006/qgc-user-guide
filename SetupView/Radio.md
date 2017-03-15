@@ -1,13 +1,13 @@
 # Radio Setup
 
 ![](Radio.jpg)
-*Note: Image shown is from PX4 Pro firmware vehicle. Main Radio Setup is common to both firwares. Additional Radio Setup differs between firmwares.*
+附加遥控设置根据在固件之间不同。
 
-Radio Setup is used to configure the mapping of your main attitude control sticks to channels as well as calibrate the settings for all rc channels.
+遥控设置用于配置主要姿态控制杆到通道的映射，以及校准所有遥控通道的设置。
 
-To start radio calibration click the Calibrate button. You will be asked to move the sticks in a specific pattern. The image on the top right of the screen will also show you how to move the sticks. Simply follow the instructions to complete calibration.
+要开始遥控校准，请单击校准按钮。 您将被要求以特定模式移动棒。 屏幕右上方的图像也会显示如何移动棒。 只需按照说明完成校准。
 
-After calibration is complete the mappings for Roll, Pitch, Raw and Throttle will be set. Also the min, max, trim and reverse settings will be configured automatically for all channels.
+校准完成后，将设置Roll，Pitch，Raw和Throttle的映射。 此外，将自动为所有通道配置最小，最大，微调和反转设置。
 
 ### Additional Radio Setup
 
