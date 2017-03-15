@@ -34,7 +34,7 @@
 **[感度](Tuning.md)**
 <br>调整无人机的飞行控制感度。
 
-**[Parameters](Parameters.md)**
+**[机体参数](Parameters.md)**
 <br>Allows you to modify all parameters associated with your vehicle.
 <br>
 <br>
