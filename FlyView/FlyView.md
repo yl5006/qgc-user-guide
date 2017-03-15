@@ -23,7 +23,7 @@
 通过点击视频，您可以使其成为飞行视图的主显示。
 ## 姿态仪
 右下角是一个仪表板，显示您无人机的最新信息。 显示姿态角度，航向角
-<img src="Instrument.jpg" style="width: 100px;"/>
+<img src="FlyView/instrument.jpg" style="width: 100px;"/>
 
 
 ### Telemetry page
