@@ -3,11 +3,7 @@
 ![](../QuickStart/ConnectedVehicle.jpg)
 飞行视图是飞行您的无人机时将使用的主视图。 您可以在地图视图和视频视图（如果有）之间切换。
 
-## Map
-
-The map will show you the positions of all the vehicles you are connected to. It will also show you the mission for the current vehicle.
-
-## Fly Tools
+## 飞行工具栏
 On the left edge of the screen you will see the Fly Tools. The order of tools from top to bottom is:
 
 * Center map
