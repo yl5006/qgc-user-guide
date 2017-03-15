@@ -6,10 +6,6 @@
 
 它们允许您通过向左或向右移动滑块来调整指定的飞行感度。
 
-## ArduCopter Tuning
-
-![](APMTuningCopter.jpg)
-
 ### AutoTune
 
 AutoTune is used to automatically tune the rate parameters in order to provide the highest response without significant overshoot.
