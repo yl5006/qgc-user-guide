@@ -25,7 +25,7 @@ CompassMot calibration is only recommended for vehicles that have only an intern
 
 To perform CompassMot calibration click the button and follow the onscreen prompts.
 
-## Sensor Settings
+## 飞控安装位置
 Configure the orienation and usage of your sensors.
 
 <img src="SensorSettings.jpg" style="width: 200px;"/>
