@@ -32,7 +32,7 @@
 <br>指定与安全相关的选项（例如返航设置或故障后设置）的设置。
 
 **[感度](Tuning.md)**
-<br>Tune flight characteristics of the vehicle.
+<br>调整无人机的飞行特性。
 
 **[Camera](Camera.md)**
 <br>Configure settings for camera and gimbal.
