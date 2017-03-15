@@ -34,9 +34,6 @@
 **[感度](Tuning.md)**
 <br>调整无人机的飞行控制感度。
 
-**[Camera](Camera.md)**
-<br>Configure settings for camera and gimbal.
-
 **[Parameters](Parameters.md)**
 <br>Allows you to modify all parameters associated with your vehicle.
 <br>
