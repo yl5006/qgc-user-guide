@@ -18,17 +18,17 @@
 ## 飞行页面工具
 在屏幕中上方，您将看到计划工具。 工具从上到下的顺序是：
 
-* 添加命令
+* 添加航点
 * 自动扫描航线（Survey.md）
 * 同步
 * 中心地图
 * 地图类型
 * 放大/缩小
 
-### Add Commands
+### 添加航点
 Click to activate the Add Commands tool. While active, clicking in the map will add new mission commands at the clicked location. The tool will stay active until you click it again.
 
-### Sync
+### 同步
 The Sync tools allows you to move Missions back and forth to your Vehicle or a file. *Before you fly a mission you must be sure to send your Mission to your vehicle.* The tool will change to have an "!" within it to indicate that you have changes to your Mission which you have not sent to your vehicle. 
 
 The Sync tool provides the following functionality:
