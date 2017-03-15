@@ -34,7 +34,7 @@
 <br>数传信号强度
 
 ![](BatteryToolbar.jpg) **电池状态**
-<br>Remaining battery percent.
+<br>剩余电量和电压信息
 
 ![](FlightModeToolbar.jpg) **飞行模式**
 <br>Current flight mode. Click to change flight mode.
