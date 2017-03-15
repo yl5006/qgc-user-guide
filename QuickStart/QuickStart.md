@@ -24,10 +24,10 @@
 您会注意到，工具栏在连接时包含其他信息。 它显示您的无人机的状态。 通过点击这些项目您可以看到更多的详细信息。
 
 
-![](GPSToolbar.jpg) **GPS Status**
+![](GPSToolbar.jpg) **GPS状态**
 <br >显示GPS卫星颗数和水平精度
 
-![](RCToolbar.jpg) **RC RSSI** 
+![](RCToolbar.jpg) **遥控状态** 
 <br>RS signal strength information.
 
 ![](TelemetryToolbar.jpg) **Telemetry RSSI**
