@@ -2,4 +2,4 @@
 
 ![](Safety.jpg)
 
-The Safety Setup page allows you to configure various failsafe settings as well as return home details.
+安全设置页面允许您配置各种故障安全设置以及返航的详细信息。
