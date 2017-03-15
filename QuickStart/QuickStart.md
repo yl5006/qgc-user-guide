@@ -12,7 +12,7 @@
 ![](SetupViewButton.jpg) **[设置](../SetupView/SetupView.md)**
 <br>地面站系统设置和配置你的无人机
 
-# Connecting the drone
+# 连接无人机
 In most cases if you have connected to your vehicle directly via USB, through a telemetry radio or over WiFi you should not need to take any additional steps. QGroundControl should detect your vehicle and connect it automatically.
 
 By default QGroundControl will show you the Fly view as shown here. If your vehicle requires additional setup you will be automatically shown the Setup view instead.
