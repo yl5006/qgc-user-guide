@@ -4,7 +4,7 @@
 
 航线规划计划视图用于为您的无人机规划自主任务。 一旦任务被计划并发送到无人机，你切换到 [飞行页面](FlyView.md) 来飞行任务
 
-If your Vehicle supports a [GeoFence](PlanGeoFence.md) or [Rally Points](PlanRallyPoints.md) you can also set those up from the Plan View.
+如果你设置里地理围栏，你也可在航线规划试图中看见它.
 
 The image above shows a simple mission which starts with a takeoff, flies through two waypoints and then lands.
 
