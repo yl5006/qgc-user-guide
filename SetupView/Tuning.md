@@ -1,10 +1,10 @@
 # 感度设置
 
-This page allows you to configure settings on your vehicle which control basic flight characteristics. The details of the page differ slightly if you are using PX4 Pro firmware or ArduPilot firmware.
+此页面允许您配置无人机上控制基本飞行感度的设置。 不同固件，则页面的细节略有不同。
 
-### Basic Tuning
+### 基本感度设置
 
-A set of Basic Tuning sliders are suppored for both firmwares. They allow you to adjust the specified flight characteristic by moving the slider to the left or right.
+它们允许您通过向左或向右移动滑块来调整指定的飞行感度。
 
 ## ArduCopter Tuning
 
