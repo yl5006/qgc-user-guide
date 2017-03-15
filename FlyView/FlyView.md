@@ -29,7 +29,7 @@
 
 <img src="InstrumentTelemetryPage.jpg" style="width: 100px;"/>
 
-The values shown within the telemetry page can be configured by clicking on the small gear icon.
+飞行数据显示的值可以通过单击...图标进行配置。
 
 ## Guided Bar
 At the bottom of the view is the Guided Bar. The guided bar allows to to interact with your vehicle directly from the QGroundControl application. Options available vary by Vehicle and current Vehicle state. 
