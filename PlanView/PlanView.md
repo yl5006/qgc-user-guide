@@ -39,16 +39,12 @@
 * 从文件加载
 * 移除所有航点
 
-### Survey
+### 扫描航线
 
-[Survey](Survey.md) allows you to fly a grid pattern over a polygonal area.
+[扫描航线](Survey.md) 允许您在多边形区域上生成网格航线。
 
-## Mission Command List
-On the right edge of the display is the list of mission commands for this mission. You can click on one of these to edit the values for the item. Above are a set of options to switch between editing the Mission, GeoFence and Rally Points.
-
-### Mission Command Editors
-
-Click on a mission command to show its editor which allows you to specify the values for the command. You can also change the type of the command by clicking on the command name, "Waypoint" in this example. This allows you to pick from the set up available commands to build your mission. To the right of the command name is a menu you can open by clicking. This menu provides you access to additional options such as Insert and Delete.
+### 任务命令编辑
+单击任务命令以显示其编辑器，它允许您指定命令的值。 您也可以通过单击命令名称“航点”(带下划线)更改命令的类型。 这允许您从设置可用命令中选择来构建您的任务。 命令名称的下方是你可以编辑改命名的参数，命令的右方是 插入和 删除 航点命令。
 
 ### Planned Home Position
 A mission always has a "Planned Home Position" associated with it. This is used to simulate the home position of the vehicle such that waypoint lines can be drawn correctly to the first actual waypoint. Keep in mind that the actual home position for a mission is set by the vehicle and may differ from the "planned" home position if you don't begin your mission with the vehicle in the same location as "planned".
