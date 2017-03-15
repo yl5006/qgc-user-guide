@@ -31,7 +31,7 @@
 **[安全设置](Safety.md)**
 <br>指定与安全相关的选项（例如返航设置或故障后设置）的设置。
 
-**[Tuning](Tuning.md)**
+**[感度](Tuning.md)**
 <br>Tune flight characteristics of the vehicle.
 
 **[Camera](Camera.md)**
