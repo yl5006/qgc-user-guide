@@ -1,4 +1,4 @@
-# Setup View
+# 设置
 
 ![](SetupView.jpg)
 
