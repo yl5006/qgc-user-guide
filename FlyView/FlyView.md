@@ -14,7 +14,7 @@
 ### 定位地图中心
 定位地图中心工具允许您地图以各种点（如起始位置，无人机等）居中。
 
-### Map Type
+### 地图类型
 This tool allows you to change the current map type between Street, Satellite and Hybrid (Street+Satellite). The default map provider is Bing since it seems to provide better Hybrid maps. You can change the map provider from the General page of Settings.
 
 ## Video
