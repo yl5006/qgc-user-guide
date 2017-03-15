@@ -5,9 +5,3 @@
 系统设置视图允许您配置地面站设置程序相关的设置。 由于这些设置是为地面站系统而不是你的特定无人机，你不必有无人机连接时更改这些设置。
 
 您可以通过单击左侧的按钮在各种设置选项之间切换。
-
-**Comm Links**
-<br>Allows you to manually create communication links and connect to them. *Keep in mind that normally this is not needed since QGroundControl will automatically connect to the most common devices.*
-
-**[Offline Maps](OfflineMaps.md)**
-<br>Allows you to cache maps for use while you have no internet connection.
