@@ -1,45 +1,14 @@
-# Plan View - GeoFence
-A GeoFence allows you to create a virtual fence around the area you want to fly in. If you then fly outside that area you can configure a specific action to be taken. 
-
-Not all vehicle firmwares support GeoFence and if supported the GeoFence capabilities vary.
+# 航线规划 - 地理栅栏
+地理栅栏允许您在想要飞行的区域周围创建一个虚拟围栏。如果您在该区域外飞行，您可以配置要执行的特定操作。改设置在安全设置中设置
 
 ## 示例图
 ![](GeoFence.jpg)
 
-## GeoFence Setup
-The steps to creating a GeoFence are:
+## 围栏设置 步骤
+创建地理栅栏的步骤如下：
 
-1. Change to Plan View
-2. Select the GeoFence radio button (top right of view)
-3. Specify fence settings in the editor panel
-4. Add a fence polygon (if supported)
-5. Send the GeoFence to the Vehicle (or save to file)
-
-### Drawing a GeoFence Polygon
-If your vehicle supports polygon fences, at the bottom of the editor panel you will see the "Fence Polygon" section. Click the Draw button to draw a polygon on the map by clicking to add points to the polygon.
-
-Once you have created a fence polygon you can adjust it by clicking the Adjust button which will allow you to move the polygon corners. You can also click Draw again to redraw a completely new fence polygon.
-
-### GeoFence Tools
-On the left edge of the screen you will see the Plan Tools. The order of tools from top to bottom is:
-
-* Sync
-* Center map
-* Map Type
-* Zoom In/Out
-
-#### Sync
-The Sync tools allows you to move GeoFences back and forth to your Vehicle or a file. *Before you fly you must be sure to send your GeoFence to your vehicle.* The tool will change to have an "!" within it to indicate that you have changes to your GeoFence which you have not sent to your vehicle. 
-
-The Sync tool provides the following functionality:
-
-* Send to Vehicle
-* Load from Vehicle
-* Save to File
-* Load from File
-* Remove All
-
-When you save a GeoFence to a file all settings will be saved, not just the fence polygon. 
-
-#### Remaining tools
-The rest of the tools work exactly as they do while editing a Mission.
+1.更改为设置视图
+2.选择安全设置按钮
+![](save.jpg)
+3.在安全设置面板中启用半径设置，高度等设置
+![](fence.jpg)
