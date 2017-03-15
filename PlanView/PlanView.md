@@ -1,8 +1,8 @@
-# Plan View
+# 航线规划
 
 ![](PlanView.jpg)
 
-The Plan View is used to plan autonomous missions for you Vehicle. Once the mission is planned and sent to the vehicle, you switch to the [Fly View](FlyView.md) to fly the mission.
+The Plan View is used to plan autonomous missions for you Vehicle. Once the mission is planned and sent to the vehicle, you switch to the [飞行页面](FlyView.md) to fly the mission.
 
 If your Vehicle supports a [GeoFence](PlanGeoFence.md) or [Rally Points](PlanRallyPoints.md) you can also set those up from the Plan View.
 
