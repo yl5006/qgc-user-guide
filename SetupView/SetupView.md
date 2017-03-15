@@ -16,8 +16,8 @@
 **[Airframe](Airframe.md)**
 <br>Specify the airframe type for the vehicle.
 
-**[Radio](Radio.md)**
-<br>Calibrate your Radio Control Transmitter.
+**[遥控设置](Radio.md)**
+<br>校准遥控器。
 
 **[Sensors](Sensors.md)**
 <br>Calibrate the sensors on the vehicle.
