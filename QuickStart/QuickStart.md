@@ -1,6 +1,5 @@
 # 地面站系统
 下图是地面站系统未连接飞控状态
-<br>
 ![](BootToFly.jpg)
 <br>
 ![](FlyViewButton.jpg) **[飞行页面](../FlyView/FlyView.md)**
