@@ -1,4 +1,4 @@
-# Tuning Setup
+# 感度设置
 
 This page allows you to configure settings on your vehicle which control basic flight characteristics. The details of the page differ slightly if you are using PX4 Pro firmware or ArduPilot firmware.
 
