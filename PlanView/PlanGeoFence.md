@@ -4,7 +4,7 @@ A GeoFence allows you to create a virtual fence around the area you want to fly 
 Not all vehicle firmwares support GeoFence and if supported the GeoFence capabilities vary.
 
 ## 示例图
-![](GeoFence.PX4.jpg)
+![](GeoFence.jpg)
 
 ## GeoFence Setup
 The steps to creating a GeoFence are:
