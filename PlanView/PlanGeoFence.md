@@ -3,14 +3,7 @@ A GeoFence allows you to create a virtual fence around the area you want to fly 
 
 Not all vehicle firmwares support GeoFence and if supported the GeoFence capabilities vary.
 
-## Example Visuals
-ArduCopter visual:
-![](GeoFence.APM.Copter.jpg)
-
-ArduPlane visual:
-![](GeoFence.APM.Plane.jpg)
-
-PX4 Pro visual:
+## 示例图
 ![](GeoFence.PX4.jpg)
 
 ## GeoFence Setup
