@@ -18,24 +18,17 @@
 此工具允许您更改街道，卫星和混合（街道+卫星）之间的当前地图类型。 默认地图提供程序是Bing，因为它似乎提供更好的混合地图。 您可以从“设置”的“系统设置”页面更改地图提供商。
 
 ## 视频显示
-在显示屏的左下角，您将看到视频输出。 地面站系统支持RTP和RTSP视频流通过您的无人机UDP连接。 它还支持直接连接的UVC设备支持。 
+在显示屏的左下角，您将看到视频输出。 地面站系统支持RTP和RTSP视频流通过您的无人机UDP连接。 它还支持直接连接的UVC设备。 
 
-By clicking on the video you can make it be the main display for the Fly view.
-
-## Instrument Panel
-To the right is an instrument panel showing you current information on your vehicle. The center section of the panel has multiple pages. You can switch between pages by clicking on the center section. 
+通过点击视频，您可以使其成为飞行视图的主显示。
+## 姿态仪
+右下角是一个仪表板，显示您无人机的最新信息。 显示姿态角度，航向角
 
 ### Telemetry page
 
 <img src="InstrumentTelemetryPage.jpg" style="width: 100px;"/>
 
 The values shown within the telemetry page can be configured by clicking on the small gear icon.
-
-### Vehicle Health page
-
-<img src="InstrumentHealthPage.jpg" style="width: 100px;"/>
-
-This page shows you the health of the systems within your Vehicle. If any of the systems switchs from healthy to unhealthy this page will automatically be switched to.
 
 ## Guided Bar
 At the bottom of the view is the Guided Bar. The guided bar allows to to interact with your vehicle directly from the QGroundControl application. Options available vary by Vehicle and current Vehicle state. 
