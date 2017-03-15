@@ -26,18 +26,18 @@
 * 放大/缩小
 
 ### 添加航点
-Click to activate the Add Commands tool. While active, clicking in the map will add new mission commands at the clicked location. The tool will stay active until you click it again.
+单击以激活添加航点命令工具。 当激活时，点击地图将在点击的位置添加新的任务命令。 该工具将保持有效，直到您再次单击它。
 
 ### 同步
-The Sync tools allows you to move Missions back and forth to your Vehicle or a file. *Before you fly a mission you must be sure to send your Mission to your vehicle.* The tool will change to have an "!" within it to indicate that you have changes to your Mission which you have not sent to your vehicle. 
+同步工具允许您将任务来回移动到您的无人机或文件。 *飞行任务之前，您必须确保将您的任务发送到您的无人机。*该工具将更改为具有“！” 在其内，以指示您对您的任务的更改，您尚未发送到您的车辆。
 
-The Sync tool provides the following functionality:
+同步工具提供以下功能：
 
-* Send to Vehicle
-* Load from Vehicle
-* Save to File
-* Load from File
-* Remove All
+* 发送到无人机
+* 从无人机载入
+* 保存到文件
+* 从文件加载
+* 移除所有航点
 
 ### Survey
 
