@@ -11,6 +11,6 @@
 
 要更改参数的值，请单击列表中的参数值，修改该值，按回车键或点击其他参数，参数自动上传
 
-![](../images/setup/02_parameters_02.png)  
-_Note: This image is out of date._
+![](/SetupView/paramsdetail.jpg)  
+参数解释
 
