@@ -30,7 +30,7 @@
 ![](RCToolbar.jpg) **遥控状态** 
 <br>RS signal strength information.
 
-![](TelemetryToolbar.jpg) **Telemetry RSSI**
+![](TelemetryToolbar.jpg) **数传状态**
 <br>Telemetry signals strength information.
 
 ![](BatteryToolbar.jpg) **Battery**
