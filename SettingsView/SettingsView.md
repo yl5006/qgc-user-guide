@@ -1,4 +1,4 @@
-# Settings View
+# 系统设置
 
 ![](SettingsView.jpg)
 
