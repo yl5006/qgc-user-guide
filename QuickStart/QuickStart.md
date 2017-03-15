@@ -37,4 +37,4 @@
 <br>剩余电量和电压信息
 
 ![](FlightModeToolbar.jpg) **飞行模式**
-<br>Current flight mode. Click to change flight mode.
+<br>飞行模式，点击修改当前模式
