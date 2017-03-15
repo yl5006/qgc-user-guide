@@ -1,6 +1,5 @@
 # 地面站系统
-The first step is to [download](download_and_install.md) and install QGroundControl. Below is the screen you will see when no vehicle is connected.
-<br>
+下图是地面站系统未连接飞控状态
 <br>
 ![](BootToFly.jpg)
 <br>
@@ -9,13 +8,13 @@ The first step is to [download](download_and_install.md) and install QGroundCont
 <br>Configure the QGroundControl application.
 
 ![](SetupViewButton.jpg) **[Setup](../SetupView/SetupView.md)**
-<br>Configure and tune your vehicle.
+<br设置和配置你的无人机
 
 ![](PlanViewButton.jpg) **[Plan](../PlanView/PlanView.md)**
-<br>Create autonomous missions.
+<br>航点规划页面，自动规划航点
 
 ![](FlyViewButton.jpg) **[Fly](../FlyView/FlyView.md)**
-<br>Monitor you vehicle(s) while flying, including streaming video.
+<br>飞行页面，监控无人机数据，以及图像传输
 
 # Connecting the drone
 In most cases if you have connected to your vehicle directly via USB, through a telemetry radio or over WiFi you should not need to take any additional steps. QGroundControl should detect your vehicle and connect it automatically.
