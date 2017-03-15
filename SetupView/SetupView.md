@@ -10,12 +10,8 @@
 
 注意：显示的选项集和每个选项的内容可能会根据无人机固件而有所不同。
 
-
-**系统设置**
-<br>An overview of all the important setup options for your vehicle. Similar to the individual setup buttons, the summary blocks show a red indicator when those settings are not fully configured.
-
-**[Firmware](Firmware.md)**
-<br>Flash new firmware onto your vehicle.
+**[固件更新](Firmware.md)**
+<br>将新固件刷新到您的无人机上。
 
 **[Airframe](Airframe.md)**
 <br>Specify the airframe type for the vehicle.
