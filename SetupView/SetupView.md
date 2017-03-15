@@ -2,7 +2,7 @@
 
 ![](SetupView.jpg)
 
-The Setup View is used to configure a new vehicle prior to first flight and/or tune an a configured vehicle. 
+设置视图用于在首次飞行之前配置新无人机和/或调整配置的无人机参数。
 
 ### Setup Options
 
