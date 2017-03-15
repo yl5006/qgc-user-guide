@@ -9,6 +9,6 @@
 
 校准完成后，将设置Roll(横滚)，Pitch(仰俯)，Raw(航向)和Throttle(油门)的映射。 此外，将自动为所有通道配置最小，最大，微调和反转设置。
 
-### Additional Radio Setup
+### 附加设置
 
-Below the top most calibration portion of the screen are additional radio based settings which are specific to the firmware your vehicle is using.
+在屏幕顶部最下面的校准部分是额外的基于遥控的设置，会根据您的无人机使用的固件显示。
