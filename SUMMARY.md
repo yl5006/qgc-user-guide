@@ -9,7 +9,6 @@
 * [设置](SetupView/SetupView.md)
   * [系统设置](SettingsView/SettingsView.md)
   * [固件下载](SetupView/Firmware.md)
-  * [机体选择](SetupView/Airframe.md)
   * [遥控设置](SetupView/Radio.md)
   * [传感器](SetupView/Sensors.md)
   * [飞行模式](SetupView/FlightModes.md)
