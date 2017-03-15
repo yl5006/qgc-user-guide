@@ -11,7 +11,7 @@
 
 您可以任意调换顺序进行引导。
 
-## Compass
+## 磁罗盘
 
 ### ArduPilot (newer firmwares)
 For newer ArduPilot firmwares compass calibration will be done using the Onboard calibration support which provides for more accurate calibration. You need to rotate the vehicle randomly around all axes until the progress bar fills all the way to the right and the calibration completes. When the calibration completes you will get the following results:
