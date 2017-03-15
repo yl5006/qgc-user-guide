@@ -1,4 +1,4 @@
-# This is QGroundControl
+# 地面站系统
 The first step is to [download](download_and_install.md) and install QGroundControl. Below is the screen you will see when no vehicle is connected.
 <br>
 <br>
