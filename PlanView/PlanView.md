@@ -6,16 +6,16 @@
 
 如果你设置里地理围栏，你也可在航线规划试图中看见它.
 
-The image above shows a simple mission which starts with a takeoff, flies through two waypoints and then lands.
+上图显示了一个简单的任务，从起飞开始，飞过两个航点，然后返航。
 
-The steps to creating a missions are:
+创建任务的步骤是：
 
-1. Change to Plan View
-2. Add commands to the mission and edit as needed
-3. Send the mission to the vehicle
-4. Change to Fly View and fly your mission
+1.切换到航线规划视图
+2.向任务添加命令并根据需要进行编辑
+3.将任务发送到无人机
+4.切换为飞行视图并飞行您的任务
 
-## Plan Tools
+## 飞行页面工具
 On the left edge of the screen you will see the Plan Tools. The order of tools from top to bottom is:
 
 * Add Commands
