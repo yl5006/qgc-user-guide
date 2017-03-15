@@ -4,8 +4,7 @@
 飞行视图是飞行您的无人机时将使用的主视图。 您可以在地图视图和视频视图（如果有）之间切换。
 
 ## 飞行工具栏
-On the left edge of the screen you will see the Fly Tools. The order of tools from top to bottom is:
-
+在屏幕的正中间上方，你会看到飞行工具。 工具从上到下的顺序是：
 * Center map
 * Map Type
 * Zoom In/Out
