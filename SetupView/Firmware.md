@@ -4,7 +4,7 @@
 
 Using QGroundControl you can install the latest versions of the firmware of your choice. QGroundControl is capable of loading firmware onto Pixhawk family autopilot boards, SiK Radios and PX4 Flow devices.
 
-### Before you install Firmware [Important]
+### 更新固件之前(注意)
 
 在将固件安装到无人机上之前，必须断开与车辆的所有USB连接，无论是直接连接还是通过遥测收音机。 此外，车辆不得由电池供电。 
 
