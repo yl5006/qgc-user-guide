@@ -11,13 +11,13 @@
 ## Manual Grid
 <img src="SurveyManual.jpg" style="width: 150px;"/>
 
-The Manual Grid option allows you to specify all the values for generating the grid pattern over the polygon by hand. 
+手动网格选项允许您指定用手在多边形上生成网格图案的所有值。
 
-* Grid angle - The angle for the parallel flight tracks of the grid. For example 0 degrees will generate parallel lines which travel north/south.
-* Grid spacing - The distance between each parallel flight track.
-* Altitude - The altitude to fly the entire grid pattern.
-* Turnaround distance - The mount of additional distance to fly past the edge of the polygon before performing the turnaround for the next flight track.
-* Trigger Distance - Used to trigger an image taken by the camera based on distance flown.
+    * 网格角     - 网格的平行飞行轨迹的角度。 例如0度将产生向南/向南行进的平行线。
+    * 网格间距   - 每个平行飞行轨迹之间的距离。
+    * 高度       - 飞行整个网格图案的高度。
+    * 周转距离   - 在执行下一个飞行轨迹的周转之前，飞越多边形边缘的额外距离。
+    * 触发距离   - 用于根据飞行距离触发摄像机拍摄的图像。
 
 ## Camera
 <img src="SurveyCamera.jpg" style="width: 150px;"/>
