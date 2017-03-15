@@ -18,7 +18,7 @@
 ![](CompassImageCal.jpg)
 
 ## 水平校准
-If after completing Accelerometer calibration you see that the horizon as shown in the HUD is not level you can calibrate the level horizon for your vehicle. You will be asked to place the vehicle in a level orientation while it captures the information.
+如果在完成加速度计校准后，您看到飞行视图页面姿态仪上所示不是水平，您可以校准您的无人机的水平进行水平无人机将在空中保持该水平。 在捕获信息时，会要求您将车辆置于水平方向。
 
 ## CompassMot (ArduPilot only)
 CompassMot calibration is only recommended for vehicles that have only an internal compass and on vehicles where there is significant interference on the compass from the motors, power wires, etc. CompassMot only works well if you have a battery current monitor because the magnetic interference is linear with current drawn.
