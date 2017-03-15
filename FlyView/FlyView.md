@@ -1,8 +1,7 @@
-# Fly View
+# 飞行页面
 
 ![](../QuickStart/ConnectedVehicle.jpg)
-
-The Fly View is the main view you will use while flying your vehicle. You can switch between a map view and a video view (if available).
+飞行视图是飞行您的无人机时将使用的主视图。 您可以在地图视图和视频视图（如果有）之间切换。
 
 ## Map
 
