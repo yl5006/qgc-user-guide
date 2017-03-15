@@ -1,11 +1,11 @@
 # 机体参数设置
 
 ![](/SetupView/Parameters.jpg)  
-_Note: This image is from a vehicle running PX4 Pro firmware. ArduPilot works similary, just the parameter set will differ._
+注意：不同无人机参数设置不同。
 
-The Parameters screen allows you to modify any of the parameters associated with the vehicle.
+参数屏幕允许您修改与无人机相关的任何参数。
 
-The parameters are organized in groups. You can select a group of parameters to view by clicking on one of the group buttons to the left. In the example image the "Battery Calibration" group is selected.
+参数分类按钮。 您可以通过单击左侧的组按钮之一来选择一组要查看的参数。 在示例图像中选择“电池校准”组。
 
 ### Changing a value
 
