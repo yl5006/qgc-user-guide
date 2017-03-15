@@ -13,9 +13,6 @@
 **[固件更新](Firmware.md)**
 <br>将新固件刷新到您的无人机上。
 
-**[Airframe](Airframe.md)**
-<br>Specify the airframe type for the vehicle.
-
 **[遥控设置](Radio.md)**
 <br>校准遥控器。
 
