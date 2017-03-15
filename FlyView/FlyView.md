@@ -32,13 +32,13 @@
 飞行数据显示的值可以通过单击...图标进行配置。
 
 ## 引导工具
-At the bottom of the view is the Guided Bar. The guided bar allows to to interact with your vehicle directly from the QGroundControl application. Options available vary by Vehicle and current Vehicle state. 
+在视图的底部是引导栏。 导航栏允许直接从QGroundControl应用程序与您的车辆进行交互。 可用的选项因车辆和当前车辆状态而异。
 
-Some of the possible options are:
+一些可能的选项是：
 
-* Arm, Disarm, Emergency Stop
-* Takeoff
-* Change altitiude
-* Go to location
-* RTL
-* Pause
+*手臂，撤防，紧急停止
+* 脱掉
+*更改altitiude
+*转到位置
+* 返航
+* 暂停
