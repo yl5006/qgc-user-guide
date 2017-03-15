@@ -8,7 +8,7 @@
 
 网格航线有多个选项。 您可以从编辑器顶部的下拉菜单中选择主选项。
 
-## Manual Grid
+## 手动网格
 <img src="SurveyManual.jpg" style="width: 150px;"/>
 
 手动网格选项允许您指定用手在多边形上生成网格图案的所有值。
@@ -19,21 +19,21 @@
     * 周转距离   - 在执行下一个飞行轨迹的周转之前，飞越多边形边缘的额外距离。
     * 触发距离   - 用于根据飞行距离触发摄像机拍摄的图像。
 
-## Camera
+## 相机预设
 <img src="SurveyCamera.jpg" style="width: 150px;"/>
 
-Selecting a known camera from the option dropdown allows you to generate a grid pattern based on the camera's specifications.
+从选项下拉菜单中选择已知的摄像机，您可以根据摄像机的规格生成网格图案。
 
-* Landscape/Portrait - Specifies the orientation that the camera is placed on the vehicle.
-* Image Overap - Allows you to specify the amount of overlap you want between each image.
-* Altitude - Selecting this value allows you to specify the altitude for the survey. The ground resolution will be calculated and shown for the specified altitude.
-* Ground resolution - Selecting this value allows you to specify the ground resolution you want for each image. The altitude required to achieve this resolution is calculated and shown.
+* 横向/纵向 - 指定相机放置在车辆上的方向。
+* 图像叠加 - 允许您指定每个图像之间想要的重叠量。
+* 高度 - 选择此值允许您指定测量的高度。 将计算并显示指定高度的地面分辨率。
+* 地面分辨率 - 选择此值可以指定每个图像所需的地面分辨率。 计算并显示达到此分辨率所需的高度。
 
-## Custom Camera
+## 自定义相机
 <img src="SurveyCameraCustom.jpg" style="width: 150px;"/>
 
-The custom camera option is similar to the known camera option. The difference is that you must specify the details for the camera specifications yourself.
+自定义摄像机选项与已知的摄像机选项类似。 不同之处在于您必须自己指定相机规格的详细信息。
 
-* Sensor width/height - The size of the image sensor of the camera.
-* Image width/height - The resolution of the image captured by the camera.
-* Focal Length - The focal length of the camera lens.
+* 传感器宽度/高度     - 相机的图像传感器的尺寸。
+* 图像宽度/高度     - 相机捕获的图像的分辨率。
+* 焦距     - 相机镜头的焦距。
