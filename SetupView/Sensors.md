@@ -1,5 +1,5 @@
 # 传感器
-Sensor setup allows you to configure and calibrate the sensors on your vehicle.
+传感器设置允许您配置和校准无人机上的传感器。
 
 ![](Sensors.jpg)
 *Note: The image shown is from a vehicle running ArduPilot firmware. PX4 Firmware options will be slightly different.*
