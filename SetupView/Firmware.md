@@ -1,19 +1,17 @@
 # 固件更新
 
 ![](Firmware.jpg)
-
-Using QGroundControl you can install the latest versions of the firmware of your choice. QGroundControl is capable of loading firmware onto Pixhawk family autopilot boards, SiK Radios and PX4 Flow devices.
-
+使用GroundStation地面站系统，您可以安装固件的最新版本。 
 ### 更新固件之前(注意)
 
 在将固件安装到无人机上之前，必须断开与车辆的所有USB连接，无论是直接连接还是通过遥测收音机。 此外，车辆不得由电池供电。 
 
 ### 通过USB连接你的飞控
 
-Now connect your device (Pixhawk, SiK Radio, PX4 Flow) directly to your computer with a USB. Do not connect through a USB hub. Only connect directly to a powered USB port on your machine.
+现在使用USB将您的设备直接连接到计算机。 不要通过USB集线器连接。 只能直接连接到机器上的供电USB端口。
 一旦设备连接 固件自动下载更新
-### Firmware load complete
 
-Once the specified firmware has completed loading the device/vehicle will reboot and reconnect.
+### 固件更新成功
 
-*Note: Support for loading Firmware is currently not available on tablet or phone versions of QGroundControl.*
+一旦指定的固件完成加载，无人机将重新启动并重新连接。
+*注意：支持加载固件目前不适用于平板电脑或手机版本*
