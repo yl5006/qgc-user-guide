@@ -31,7 +31,7 @@
 <br >如果遥控数据强度可用，显示强度状态
 
 ![](TelemetryToolbar.jpg) **数传状态**
-<br>Telemetry signals strength information.
+<br>数传信号强度
 
 ![](BatteryToolbar.jpg) **电池状态**
 <br>Remaining battery percent.
