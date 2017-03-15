@@ -7,11 +7,11 @@
 要启动单个校准步骤，请单击传感器的按钮。 标有红色的传感器需要在飞行前校准。 标有绿色的传感器表示良好的校准。
 
 ## 加速度计
-To calibrate the accelerometers on your vehicle you will be asked to place you vehicle in an orientation and hold it there until asked to move to the next step.
+要校准无人机上的加速度计，您将被要求将您的车辆放置在一个方向，并保持在那里，直到要求移动到下一步。
 
-For ArduPilot follow text textual instructions in the center display, clicking the Next button to capture each position.
+对于ArduPilot，按照中心显示中的文本文本说明，单击下一步按钮捕获每个位置。
 
-For PX4 you will be guided with a visual display of positions.
+对于PX4，您将通过视觉显示位置进行引导。
 
 ## Compass
 
