@@ -6,7 +6,7 @@
 
 要启动单个校准步骤，请单击传感器的按钮。 标有红色的传感器需要在飞行前校准。 标有绿色的传感器表示良好的校准。
 
-## Accelerometer
+## 加速度计
 To calibrate the accelerometers on your vehicle you will be asked to place you vehicle in an orientation and hold it there until asked to move to the next step.
 
 For ArduPilot follow text textual instructions in the center display, clicking the Next button to capture each position.
