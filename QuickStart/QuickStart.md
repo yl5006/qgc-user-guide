@@ -3,18 +3,14 @@
 <br>
 ![](BootToFly.jpg)
 <br>
+![](FlyViewButton.jpg) **[飞行页面](../FlyView/FlyView.md)**
+<br>飞行页面，监控无人机数据，以及图像传输
 
-![](SettingsViewButton.jpg) **[Settings](../SettingsView/SettingsView.md)**
-<br>Configure the QGroundControl application.
-
-![](SetupViewButton.jpg) **[Setup](../SetupView/SetupView.md)**
-<br>设置和配置你的无人机
-
-![](PlanViewButton.jpg) **[Plan](../PlanView/PlanView.md)**
+![](PlanViewButton.jpg) **[航点规划](../PlanView/PlanView.md)**
 <br>航点规划页面，自动规划航点
 
-![](FlyViewButton.jpg) **[Fly](../FlyView/FlyView.md)**
-<br>飞行页面，监控无人机数据，以及图像传输
+![](SetupViewButton.jpg) **[设置](../SetupView/SetupView.md)**
+<br>地面站系统设置和配置你的无人机
 
 # Connecting the drone
 In most cases if you have connected to your vehicle directly via USB, through a telemetry radio or over WiFi you should not need to take any additional steps. QGroundControl should detect your vehicle and connect it automatically.
