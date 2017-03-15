@@ -28,7 +28,7 @@
 <br >显示GPS卫星颗数和水平精度
 
 ![](RCToolbar.jpg) **遥控状态** 
-<br>RS signal strength information.
+<br >如果遥控数据强度可用，显示强度状态
 
 ![](TelemetryToolbar.jpg) **数传状态**
 <br>Telemetry signals strength information.
