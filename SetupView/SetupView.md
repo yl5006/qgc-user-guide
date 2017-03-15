@@ -4,11 +4,11 @@
 
 设置视图用于在首次飞行之前配置新无人机和/或调整配置的无人机参数。
 
-### Setup Options
+### 设置选项
 
-To the left of the screen are the set of available setup options. A setup button is marked with a red icon if there are still settings needed to be adjusted/specified. You should not fly if any of these are red. In the above image the Radio setup is not yet complete.
+屏幕中间是可用的设置选项集。 如果仍有需要调整/指定的设置，则设置按钮将标记为红色图标。 你不应该飞行，如果这些都是红色的。 在上面的图像中，遥控器设置尚未完成。
 
-Note: The set of options shown and the contents of each option may differ based on whether the vehicle is running PX4 Pro or ArduPilot firmware. The image above is from a vehicle which is running PX4 Pro firmware.
+注意：显示的选项集和每个选项的内容可能会根据车辆是否正在运行PX4 Pro或ArduPilot固件而有所不同。 上图是来自运行PX4 Pro固件的车辆.
 
 
 **Summary**
