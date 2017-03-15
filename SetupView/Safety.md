@@ -1,5 +1,5 @@
-# Safety Setup
+# 安全设置
 
-![](PX4Safety.jpg)
+![](Safety.jpg)
 
 The Safety Setup page allows you to configure various failsafe settings as well as return home details.
