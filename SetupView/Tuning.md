@@ -6,10 +6,6 @@
 
 它们允许您通过向左或向右移动滑块来调整指定的飞行感度。
 
-### 飞行感度
+## 固定翼飞行感度
 
-This is an advanced option which allows you to tune a flight control parameter using one of your transmitter dial channels. Select the control option from the dropdown and specify the min/max for the values to assign to the dial.
-
-## PX4 Copter Tuning
-
-![](PX4TuningCopter.jpg)
+![](TuningCopter.jpg)
