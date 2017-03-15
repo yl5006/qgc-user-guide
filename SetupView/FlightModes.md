@@ -1,30 +1,11 @@
 # 飞行模式设置
 
-This page allows you to configure the flight mode switch on your rc transmitter. Flight modes allow for different levels of flight stablization as well as features such as Return to Launch (RTL).
+此页面允许您配置遥控器上的飞行模式开关。 飞行模式允许设置不同类型飞行模式以及诸如返回启动返航（RTL）等功能。
 
-## ArduPilot Flight Mode Setup
-![](ArduCopterFlightMode.jpg)
-*Note: Image is from an ArduCopter vehicle.*
-
-You can assign up to 6 different flight modes to a single channel of your transmitter. The flight mode will be selected when the output from the channel is whithin the specified PWM range as shown in the image above. To change a flight mode selection simply select it from the dropdown.
-
-You can test your switch setup by turning on your transmitter. The page will highlight the currently selected flight mode in yellow. In the above image Flight Mode 4 is currently active. This also works for testing Channel Options settings.
-
-The example image above shows a typical setup for a three position flight mode switch with an additional option of RTL being on a channel 7 switch. You can also setup 6 flight modes using two switches plus mixing on your transmitter. Scroll down to the center section of this [page](http://ardupilot.org/copter/docs/common-rc-transmitter-flight-mode-configuration.html#common-rc-transmitter-flight-mode-configuration) for tutorials on how to do that.
-
-### ArduCopter only
-* The flight mode channel is fixed to channel 5. 
-* You can also set additional Channel Options for channels 7-12. This allows you to assign functions to these switches.
-
-### ArduPlane only
-* The flight mode channel can be selected from the drop down. (Not shown in image)
-* ArduPlane does not support additional Channel Options.
-
-[ArduCopter detailed flight mode descriptions](http://ardupilot.org/copter/docs/flight-modes.html)
-
-[ArduCopter detailed channel option descriptions](http://ardupilot.org/copter/docs/channel-7-and-8-options.html#configuration)
-
-[ArduPlane detailed flight mode descriptions](http://ardupilot.org/plane/docs/flight-modes.html)
-
-## PX4 Pro Flight Mode Setup
+## 模式设置
 ![](PX4SingleChannelFlightMode.jpg)
+您可以向遥控器的单个通道分配最多6种不同的飞行模式。 当通道的输出在指定的PWM范围内时，将选择飞行模式，如上图所示。 要更改飞行模式选择，只需从下拉菜单中选择它。
+
+您可以通过打开遥控器来测试开关设置。 该页面将以黄色突出显示当前选择的飞行模式。 在上述图像中，飞行模式4当前处于活动状态。
+
+* 注意 不同无人机设置不尽相同
