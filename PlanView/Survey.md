@@ -4,9 +4,9 @@
 
 ![](Survey.jpg)
 
-To draw the polygon for your survey, click the "Draw" button and click in the map to set polygon vertices.
+要为您的调查绘制多边形，请单击“绘制”按钮，然后在地图中单击以设置多边形顶点。
 
-There are multiple options for a survey grid. You can select the main option from the dropdown at the top of the editor.
+网格航线有多个选项。 您可以从编辑器顶部的下拉菜单中选择主选项。
 
 ## Manual Grid
 <img src="SurveyManual.jpg" style="width: 150px;"/>
