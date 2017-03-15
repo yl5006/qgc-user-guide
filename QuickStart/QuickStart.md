@@ -25,7 +25,7 @@
 
 
 ![](GPSToolbar.jpg) **GPS Status**
-<br>Shows you satellite count and curent hdop.
+<br >显示GPS卫星颗数和水平精度
 
 ![](RCToolbar.jpg) **RC RSSI** 
 <br>RS signal strength information.
