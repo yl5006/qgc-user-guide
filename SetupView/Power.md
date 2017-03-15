@@ -1,3 +1,2 @@
-# Power Setup
-
-![](PX4Power.jpg)
+# 电源设置
+![](Power.jpg)
