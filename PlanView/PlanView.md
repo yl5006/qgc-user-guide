@@ -16,14 +16,14 @@
 4.切换为飞行视图并飞行您的任务
 
 ## 飞行页面工具
-On the left edge of the screen you will see the Plan Tools. The order of tools from top to bottom is:
+在屏幕的左边缘，您将看到计划工具。 工具从上到下的顺序是：
 
-* Add Commands
-* [Survey](Survey.md)
-* Sync
-* Center map
-* Map Type
-* Zoom In/Out
+*添加命令
+* 自动扫描航线（Survey.md）
+* 同步
+*中心地图
+*地图类型
+*放大/缩小
 
 ### Add Commands
 Click to activate the Add Commands tool. While active, clicking in the map will add new mission commands at the clicked location. The tool will stay active until you click it again.
