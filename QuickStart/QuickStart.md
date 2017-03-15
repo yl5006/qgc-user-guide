@@ -33,7 +33,7 @@
 ![](TelemetryToolbar.jpg) **数传状态**
 <br>Telemetry signals strength information.
 
-![](BatteryToolbar.jpg) **Battery**
+![](BatteryToolbar.jpg) **电池状态**
 <br>Remaining battery percent.
 
 ![](FlightModeToolbar.jpg) **Flight Mode**
