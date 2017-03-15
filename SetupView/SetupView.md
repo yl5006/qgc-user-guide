@@ -22,7 +22,7 @@
 **[传感器设置](Sensors.md)**
 <br>校准无人机传感器
 
-**[Flight Modes](FlightModes.md)**
+**[模式设置](FlightModes.md)**
 <br>Used to assign flight modes to your RC Transmitter switches.
 
 **[Power](Power.md)**
