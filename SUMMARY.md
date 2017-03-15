@@ -17,5 +17,6 @@
   * [感度设置](SetupView/Tuning.md)
   * [机参设置](SetupView/Parameters.md)
   * [离线地图](SettingsView/OfflineMaps.md)
+* [参数详解](SetupView/params.md)
 * [帮助和支持](Support/Support.md)
 
