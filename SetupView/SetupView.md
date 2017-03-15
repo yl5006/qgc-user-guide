@@ -29,7 +29,7 @@
 <br>电池设置和附加电源选项，如ESC校准。
 
 **[安全设置](Safety.md)**
-<br>Specify settings for options related to Safety such as Return to Home or Failsafes.
+<br>指定与安全相关的选项（例如返航设置或故障后设置）的设置。
 
 **[Tuning](Tuning.md)**
 <br>Tune flight characteristics of the vehicle.
