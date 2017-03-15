@@ -17,12 +17,9 @@
 
 默认情况下，GroundStation将显示如下所示的飞行视图。 如果您的无人机机需要额外的设置，您将自动显示设置视图。
 <br>
-
-
 ![](ConnectedVehicle.jpg)
 <br>
-
-You will notice that the toolbar contains additional information when it is connected. It shows you high level status for your vehicle. By clicking on any of these items you can see more detailed information. 
+您会注意到，工具栏在连接时包含其他信息。 它显示您的无人机的状态。 通过点击这些项目您可以看到更多的详细信息。
 
 ![](MessageToolbar.jpg) **Vehicle Messages**
 <br>Click to show a dropdown of messages from the vehicle. This will change to a Yield sign if there are critical messages.
