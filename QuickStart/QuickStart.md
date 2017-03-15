@@ -13,9 +13,9 @@
 <br>地面站系统设置和配置你的无人机
 
 # 连接无人机
-In most cases if you have connected to your vehicle directly via USB, through a telemetry radio or over WiFi you should not need to take any additional steps. QGroundControl should detect your vehicle and connect it automatically.
+在大多数情况下，如果您通过USB，通过数传电台或WiFi直接连接到无人机，您不需要采取任何额外的步骤。 GroundStation会自动连接。
 
-By default QGroundControl will show you the Fly view as shown here. If your vehicle requires additional setup you will be automatically shown the Setup view instead.
+默认情况下，GroundStation将显示如下所示的Fly视图。 如果您的车辆需要额外的设置，您将自动显示设置视图。
 <br>
 <br>
 ![](ConnectedVehicle.jpg)
