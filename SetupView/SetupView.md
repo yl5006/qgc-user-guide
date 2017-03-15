@@ -8,10 +8,10 @@
 
 屏幕中间是可用的设置选项集。 如果仍有需要调整/指定的设置，则设置按钮将标记为红色图标。 你不应该飞行，如果这些都是红色的。 在上面的图像中，模式设置尚未完成。
 
-注意：显示的选项集和每个选项的内容可能会根据车辆是否正在运行PX4 Pro或ArduPilot固件而有所不同。 上图是来自运行PX4 Pro固件的车辆.
+注意：显示的选项集和每个选项的内容可能会根据无人机固件而有所不同。
 
 
-**Summary**
+**系统设置**
 <br>An overview of all the important setup options for your vehicle. Similar to the individual setup buttons, the summary blocks show a red indicator when those settings are not fully configured.
 
 **[Firmware](Firmware.md)**
