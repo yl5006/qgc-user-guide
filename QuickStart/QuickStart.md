@@ -9,9 +9,11 @@
 ![](PlanViewButton.jpg) **[航点规划](../PlanView/PlanView.md)**
 <br>航点规划页面，自动规划航点
 
-![](SetupViewButton.jpg) **[设置](../SetupView/SetupView.md)**
+![](SetupViewButton.jpg) **[无人机设置](../SetupView/SetupView.md)**
 <br>地面站系统设置和配置你的无人机
 
+![](MessageToolbar.jpg) **无人机消息**
+<br> 无人机如果有警告消息，会自动弹出显示
 # 连接无人机
 在大多数情况下，如果您通过USB，通过数传电台或WiFi直接连接到无人机，您不需要采取任何额外的步骤。 GroundStation会自动连接。
 
@@ -21,8 +23,6 @@
 <br>
 您会注意到，工具栏在连接时包含其他信息。 它显示您的无人机的状态。 通过点击这些项目您可以看到更多的详细信息。
 
-![](MessageToolbar.jpg) **Vehicle Messages**
-<br>Click to show a dropdown of messages from the vehicle. This will change to a Yield sign if there are critical messages.
 
 ![](GPSToolbar.jpg) **GPS Status**
 <br>Shows you satellite count and curent hdop.
