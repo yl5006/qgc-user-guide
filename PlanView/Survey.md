@@ -1,6 +1,6 @@
-# Plan - Survey
+# 计划 - 网格航线
 
-A survey allows you to create a grid flight pattern over a polygonal area. You can specify the polygon as well as the specifications for the grid and camera settings appropriate for creating geotagged images.
+调查允许您在多边形区域上创建网格线条图案。 您可以指定多边形以及适用于创建带有地理标记的图像的网格和摄像机设置的规格。
 
 ![](Survey.jpg)
 
