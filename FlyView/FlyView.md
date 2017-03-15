@@ -4,10 +4,12 @@
 飞行视图是飞行您的无人机时将使用的主视图。 您可以在地图视图和视频视图（如果有）之间切换。
 
 ## 飞行工具栏
-在屏幕的正中间上方，你会看到飞行工具。 工具从上到下的顺序是：
-* Center map
-* Map Type
-* Zoom In/Out
+在屏幕的正中间上方，你会看到飞行工具。 工具从左到右的顺序是：
+* 获取中心地图
+* 地图类型
+* 地图缩放大/小
+* 地面站警告声音提示
+* 虚拟遥控
 
 ### Center Map
 The Center Map tool allow you to center the map around various points such as home position, vehicle and so forth.
