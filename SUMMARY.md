@@ -5,7 +5,7 @@
 * [飞行](FlyView/FlyView.md)
 * [飞行计划](PlanView/PlanView.md)
   * [地理围栏](PlanView/PlanGeoFence.md)
-  * [扫描航线](PlanView/Survey.md)
+  * [网格航线](PlanView/Survey.md)
 * [设置](SetupView/SetupView.md)
   * [系统设置](SettingsView/SettingsView.md)
   * [固件下载](SetupView/Firmware.md)
