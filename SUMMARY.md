@@ -16,6 +16,6 @@
   * [安全设置](SetupView/Safety.md)
   * [感度设置](SetupView/Tuning.md)
   * [机参设置](SetupView/Parameters.md)
-* [参数详解](SetupView/params.md)
+* [调参详解](SetupView/params.md)
 * [帮助和支持](Support/Support.md)
 
